@@ -1,6 +1,11 @@
 # autoPASS-software
-download official autoPASS software here.
-==== autoPASS software ====
-This is the official page to download autoPASS software.
-Credit goes to:
+official autoPASS download page, remember to be cautious of fake downloads!
+# about autoPASS
+autoPASS is a password generator created by PyPieCoder a.k.a XTui, current newest version is v1.0.0
+# credits
+credit goes to
 - PyPieCoder a.k.a XTui
+
+
+
+
