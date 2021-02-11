@@ -5,6 +5,8 @@ autoPASS is a password generator created by PyPieCoder a.k.a XTui, current newes
 # credits
 credit goes to
 - PyPieCoder a.k.a XTui
+# compatibility
+autoPASS is compatible with 64-bit versions of microsoft windows.
 
 
 
