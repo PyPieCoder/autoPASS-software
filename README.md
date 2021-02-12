@@ -7,6 +7,8 @@ credit goes to
 - PyPieCoder a.k.a XTui
 # compatibility
 autoPASS is compatible with 64-bit versions of microsoft windows.
+# download page
+here: https://github.com/PyPieCoder/autoPASS-software/tree/main/downloads
 
 
 
