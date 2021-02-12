@@ -1,0 +1,8 @@
+How To Select Downloads
+
+If you are a casual user and just want to use the app, then choose the normal(.exe) one. It usually has larger filesizes
+
+If you want to check the code then choose the ones has has 'py source' in their names.
+
+Thank you for using autoPASS!
+
