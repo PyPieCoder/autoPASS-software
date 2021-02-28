@@ -10,7 +10,7 @@ autoPASS is compatible with 64-bit versions of microsoft windows.
 # download page
 here: https://github.com/PyPieCoder/autoPASS-software/tree/main/downloadsz
 # how to run
-unzip and run rhe .exe file
+unzip and run the .exe file
 
 
 
